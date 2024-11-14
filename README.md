@@ -1,0 +1,9 @@
+👋 Hi! I'm an 18-year-old Data Science and AI Engineering student, exploring the universe of data one byte at a time...
+🇭🇳 From Honduras, turning coffee into code and questions into beautiful projects...
+🤹‍♂️ Multi-tasking between assignments, debugging, and believing everything will be fixed in the next line of code...
+🧠 "The only place where success comes before work is in the dictionary."
+
+<!---
+Caazcode/Caazcode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
